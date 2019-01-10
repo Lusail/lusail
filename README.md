@@ -12,7 +12,7 @@ design rationale.
 
 * [**FAQ**](docs/faq.md) Collection of frequent questions
 
-* Publications
+* **Publications**
   -  I. Abdelaziz, E. Mansour, M. Ouzzani, A. Aboulnaga and P. Kalnis. [*"Lusail: a system for querying linked data at scale"*](http://www.vldb.org/pvldb/vol11/p485-abdelaziz.pdf), VLDB 2017
   - I. Abdelaziz, E. Mansour, M. Ouzzani, A. Aboulnaga and P. Kalnis, [*"Query Optimizations over Decentralized RDF Graphs"*](https://ieeexplore.ieee.org/document/7929955), ICDE, 2017 (Short paper)
   - E. Mansour, I. Abdelaziz, M. Ouzzani, A. Aboulnaga and P. Kalnis, [*"A demonstration of Lusail: Querying linked data at scale"*](https://dl.acm.org/citation.cfm?id=3058731), SIGMOD, 2017 (Demo)
