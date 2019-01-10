@@ -1,3 +1,3 @@
-# What are the limitations of existing systems to query geo-distributed graphs? How can Lusail help?
+# What are the limitations of existing systems? How can Lusail help?
 
 Soon...
